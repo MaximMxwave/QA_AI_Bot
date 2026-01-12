@@ -100,6 +100,7 @@ cd qa_ai_bot
 3. **Настройте переменные окружения (.env файл)**
 ```bash
 BOT_TOKEN=ваш_токен_бота
+ADMIN_ID=ID_администратора
 OPENAI_API_KEY=ваш_ключ_openai
 ANTHROPIC_API_KEY=ваш_ключ_anthropic
 DEEPSEEK_API_KEY=ваш_ключ_deepseek
