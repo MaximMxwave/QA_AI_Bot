@@ -1,0 +1,9 @@
+aiogram>=3.0.0,<4.0.0
+Pillow>=10.2.0
+allpairspy>=2.5.0
+python-dotenv>=1.0.0
+aiohttp
+python-docx>=1.0.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+Faker>=20.0.0
