@@ -138,8 +138,7 @@ DEEPSEEK_API_KEY=ваш_ключ_deepseek
 pip install -r requirements.txt
 ```
 
-6. **Выберите AI модель, по умолчанию используется OpenAI (gpt-3.5-turbo),
-вы можете изменить AI-модель в .env файле**
+6. **Выберите AI-модель (по умолчанию gpt-3.5-turbo). Изменить модель можно в файле .env**
 ```bash
 DEFAULT_AI_MODEL=openai # openai, claude, deepseek
 ```
